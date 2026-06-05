@@ -1,0 +1,28 @@
+.header-margin{
+  margin-top:40px;
+  margin-left: 50px;
+}
+
+.set-table-margin{
+  margin-top: 50px;
+  width: 900px;
+  margin-left: 85px;
+}
+
+.btn-margin{
+  margin-left: 10px;
+}
+
+.add-btn-margin{
+ margin-left: 20px;
+}
+
+.setwidth{
+  width: 145px;
+}
+
+.checkbox-margin{
+  margin-left: 60px;
+  width: 40px;
+  height: 20px;
+}
