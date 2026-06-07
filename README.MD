@@ -10,7 +10,7 @@ A collection of React-based projects inspired by [Vmedulife](https://www.vmeduli
 
 ```
 Vmedulife/
-└── vmedulife-Day-7-emp-management/     ← Employee Registration & Management App
+└── emp-management/     ← Employee Registration & Management App
     ├── public/
     └── src/
         ├── App.js
